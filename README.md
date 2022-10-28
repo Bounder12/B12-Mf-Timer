@@ -16,6 +16,8 @@ Setup:
 5. Press ctrl+x to close the ConfigurationTool
 6. Launch the timer and test
 
+![Timer](https://user-images.githubusercontent.com/116857019/198482670-37ca5656-d47a-45fe-8d3d-3f4d173839e9.PNG)
+
 Once configured, so long as you do not change your game resolution and the like it will continue to work
 If you do change your screen/monitor/graphics card just rerun the configuration tool
 
