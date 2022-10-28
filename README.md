@@ -3,8 +3,6 @@ Automatic magic find timer
 ALWAYS RUN AS ADMIN, It needs permisions to read and write to files to peform properly.
 Made with AHK so .AHK files is the source for you to play with. Dont have ahk just run the exes
 
-This tool is an automatic mf timer
-
 For it to automatically detect when your creating a new game, it checks 2 sets of pixel colors.
 For example, I use 2 silver corners on the lobby (see example screenshot)
 
