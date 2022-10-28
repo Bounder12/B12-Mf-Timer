@@ -1,6 +1,10 @@
 # B12-Mf-Timer
 USE AT YOUR OWN RISK. It does not directly interact with the game so I doubt blizzard will ban for it. You never know.
 
+I created this because I always forget to hit the hotkey to start another popular timer.
+Friends took interest so I slappd a configuration tool on it.
+Thought why not post it so anyone who wants can use it/modify it.
+
 Automatic magic find timer
 ALWAYS RUN AS ADMIN, It needs permisions to read and write to files to peform properly.
 Made with AHK so .AHK files is the source for you to play with. Dont have ahk just run the exes
